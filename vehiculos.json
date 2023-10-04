@@ -1,0 +1,14 @@
+{
+   "vehiculos": [
+      {
+         "matricula": "987987",
+         "numbastidor": "98",
+         "marca": "nissan",
+         "modelo": "skyline",
+         "color": "violeta",
+         "annomatriculacion": "1980",
+         "tipo": "deportivo",
+         "alias": "sky"
+      }
+   ]
+}
