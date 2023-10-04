@@ -17,3 +17,6 @@ El programa hace persistencia de los datos de los vehículos en un fichero JSON.
 - Año de matriculación  
 - Tipo de vehículo  
 - Alias  
+
+
+Esta obra se rige bajo una licencia CC BY-NC-SA
